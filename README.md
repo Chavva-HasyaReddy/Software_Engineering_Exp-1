@@ -7,5 +7,7 @@ T(x)=ax2+bx+c
 where T(x) represents temperature, x is time, and a,b,c are coefficients derived from historical data.
 # Stages:
 (a) Hard-coding variables
+
 (b) Keyboard input
+
 (c) Reading inputs from a file for a single set and multiple sets
