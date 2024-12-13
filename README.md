@@ -11,3 +11,9 @@ where T(x) represents temperature, x is time, and a,b,c are coefficients derived
 (b) Keyboard input
 
 (c) Reading inputs from a file for a single set and multiple sets
+
+This a team project with 4 team members 
+1st stage is done by Nishad
+2nd stage is done by Priyanka
+3rd stage is done by Bhavitha
+4th stage is done by Hasya
